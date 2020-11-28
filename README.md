@@ -18,4 +18,4 @@ You can open and leave your program overnight if you want. It will automatically
 
 Enjoy and do give the feedback!
 
-Final Note: This project was just for fun! I take no responsibility for your attendance if you get caught using this program. Also this program in no means any kind of insult of Chandigarh University or its staff.
+Final Note: This project was just for fun! I take no responsibility for your attendance if you get caught using this program. Also this program in no ways means or is intended for any kind of insult of/to Chandigarh University or its staff.
