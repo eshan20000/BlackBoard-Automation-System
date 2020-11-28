@@ -1,10 +1,8 @@
 import sys
 import time
-import tkinter as tk
 import urllib.request as urllib2
 import xml.dom.minidom
 from datetime import datetime
-from tkinter import messagebox
 
 import schedule
 import selenium.common.exceptions as EX
@@ -304,16 +302,4 @@ def get_date():
     a = datetime.today().strftime('%Y%m%d')
     return a
 
-
-root = tk.Tk()
-root.withdraw()
-
-if connection_check():
-    limit = 20210301  # year/month/date
-    current = int(get_date())
-    if current < limit:
-        main()
-    else:
-        messagebox.showinfo("Sorry ", "Your program has expired!")
-else:
-    messagebox.showerror("Please ", "Check your Internet Connection!")
+main()
