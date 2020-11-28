@@ -17,3 +17,5 @@ Note 2: YOU NEED TO START THE PROGRAM ATLEAST 20 MINUTES BEFORE YOUR CLASS, ELSE
 You can open and leave your program overnight if you want. It will automatically open the class when the time comes!
 
 Enjoy and do give the feedback!
+
+Final Note: This project was just for fun! I take no responsibility for your attendance if you get caught using this program. Also this program in no means any kind of insult of Chandigarh University or its staff.
