@@ -3,7 +3,7 @@ This is a program that I created just for fun to automate my college classes if 
 
 Instructions:
 
-1. Download your timetable from UIMS in "XML Format" (this is important!) and paste it in the same folder as the program.
+1. Download your timetable from UIMS in "XML Format" (this is important!), rename it to "TimeTable.xml" and paste it in the same folder as the program.
 2. Run the "TheProxinator.py" file.
 3. When it asks for the chromedriver.exe path, copy and paste the path of the "chromedriver.exe" file in the folder to the console.
 4. Input your UID and Password.
