@@ -4,10 +4,11 @@ This is a program that I created just for fun to automate my college classes if 
 Instructions:
 
 1. Download your timetable from UIMS in "XML Format" (this is important!), rename it to "TimeTable.xml" and paste it in the same folder as the program.
-2. Run the "TheProxinator.py" file.
-3. When it asks for the chromedriver.exe path, copy and paste the path of the "chromedriver.exe" file in the folder to the console.
-4. Input your UID and Password.
-5. And that's all! The program will automatically open a chrome window and open your class session.
+2. Download the chromedriver from https://chromedriver.chromium.org/downloads and place it in the same folder as the program.
+3. Run the "TheProxinator.py" file.
+4. When it asks for the chromedriver.exe path, copy and paste the path of the "chromedriver.exe" file in the folder to the console.
+5. Input your UID and Password.
+6. And that's all! The program will automatically open a chrome window and open your class session.
 
 Note 1: When you run the program for the very first time, you will have to accept the audio and video checks as well as dismiss the BB Tour. After the first run it will save the cookies so you wont have to do it every time.
 
